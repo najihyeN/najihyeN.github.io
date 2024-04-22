@@ -3,7 +3,7 @@ title: 화면 만들기
 date: 2024-03-29 00:00:00 +09:00
 categories: [html,]
 ---
-화면 clone coding 하기.
+flex를 사용해 화면 clone coding 하기.
 ```html
 <!DOCTYPE html>
 <html lang="ko">
